@@ -15,7 +15,7 @@
   "update_mode": "user_approved_self_replace",
   "update_policy": "SAFE_MANUAL_ONEDIR_PACKAGE_REPLACE",
   "requires_permanent_updater": false,
-  "download_url": "",
+  "download_url": "https://github.com/Peter-msk/Sunrise_Finder/releases/download/v2.1.0/Sunrise_Finder_v2.1.0.zip",
   "download_file_name": "Sunrise_Finder_v2.1.0.zip",
   "update_endpoint_configured": false,
   "automatic_update_available": false,
